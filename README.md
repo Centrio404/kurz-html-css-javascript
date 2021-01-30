@@ -13,4 +13,6 @@ https://www.kutac.cz/pocitace-a-internety/jak-na-git-dil-1
   - https://www.syntevo.com/smartgit/
   - https://www.gitkraken.com/
 
-
+## Oficiální úložiště kurzu
+Tady jsou příklady kódů, který on používá:
+https://github.com/jhu-ep-coursera/fullstack-course4
